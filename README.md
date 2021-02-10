@@ -30,7 +30,7 @@ A few steps are required to get the GDV Tool up and running.
 5. Run through the Jupyter Notebook from top to bottom.
 
 ## Dependencies
-- pyMannkendall
+- pyannkendall
 - ruptures
 
 ## Licences
