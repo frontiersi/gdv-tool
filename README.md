@@ -29,5 +29,9 @@ A few steps are required to get the GDV Tool up and running.
 4. Open the GDV_TOOL folder and run the GDV Tool 0.5.ipynb file. THis will run a Jupyter Notebook that provides a demonstration of the tools functions.
 5. Run through the Jupyter Notebook from top to bottom.
 
+## Dependencies
+pyMannkendall
+ruptures
+
 ## Licences
 Todo.
