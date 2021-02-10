@@ -19,7 +19,8 @@ The resulting Python code used to run this model has been uploaded online (this 
 3. Chrome or Edge web-browser.
 
 ## Limitations
-Currently, the GDV Tool has only been tested in several locations within 100km of the township of Newman in the Pilbara region of Western Australia. Accuracy of this tool outside of this general area is currently unknown and needs statistical exploration. Likewise, new methods are currently being developed that have shown to improve the accuracy of this tool. It is recommended that the tool currently provided here is used only for experimentation and should not be used as part of any decision making projects.
+Currently, the GDV Tool has only been tested in several locations within 100km of the township of Newman in the Pilbara region of Western Australia. Accuracy of this tool outside of this general area is currently unknown and needs statistical exploration. 
+Additionally, additional methods are currently being developed that have shown to improve the accuracy of this tool. These methods will be integrated into this tool at a later date. It is recommended that the code provided here is used only for experimentation and should not be used as part of any decision making processes.
 
 ## Setup information
 A few steps are required to get the GDV Tool up and running. 
