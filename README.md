@@ -35,5 +35,4 @@ A few steps are required to get the GDV Tool up and running.
 - ruptures
 
 ## Licences
-Todo.
 Apache License Version 2.0
