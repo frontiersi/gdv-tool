@@ -1,8 +1,8 @@
 {
     "description": "Jupyter Notebooks for monitoring Groundwater Dependent Vegetation (GDV)",
     "license": "other-open",
-    "title": "frontiersi/gdv-tool v1.0",
-    "version": "v1.0",
+    "title": "frontiersi/gdv-tool v1.2",
+    "version": "v1.2",
     "upload_type": "software",
     "publication_date": "2021-02-17",
     "creators": [
@@ -14,18 +14,6 @@
             "affiliation": "Curtin University",
             "name": "Todd Robinson"
         }
-    ], 
-    "access_right": "open",
-    "related_identifiers": [
-        {
-            "scheme": "url",
-            "identifier": "https://github.com/frontiersi/gdv-tool/tree/v1.0",
-            "relation": "isSupplementTo"
-        },
-        {
-            "scheme": "doi",
-            "identifier": "10.5281/zenodo.4547010",
-            "relation": "isVersionOf"
-        }
-    ]
+    ],
+    "access_right": "open"
 }
