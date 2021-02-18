@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/337657949.svg)](https://zenodo.org/badge/latestdoi/337657949)
+
 # GDV Tool (Workshop Preview)
 
 ## Introduction
